@@ -14,6 +14,9 @@ ex) <form>
   <button type="submit">전송</button>
 </form>
 
+<input type="" name=""/> 필수
+type에 따라 속성이 달라 배치가 의도와 달라질 수 있음
+
 <input type="checkbox">
 
 코드 정리
@@ -29,3 +32,11 @@ text-decoration: none;
 요소 겹치기
 부모 태그에 class="position-relative" 코드 넣고
 겹칠 요소 태그에 style="position: absolute;" 넣을 것
+
+UI제작 시 <style>부분을 따로 빼서 css확장명으로 저장가능
+html 파일에는 <head>부분에 <link rel="stylesheet" href="/*css확장 파일명*/"> 입력
+
+input의 사이즈 제한 = {max-width: /*필요한 값*/}
+정렬이 필요할 땐 부모요소에 넣어주는 것이 편함
+
+
