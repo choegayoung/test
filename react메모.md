@@ -19,3 +19,9 @@ vite 버전
   이미지는 img와 sj칸 모두 확인 가능하다
 
 
+return 값은 jsx자료형(object)만 된다.(javascript에서는 jsx를 object로 보기 때문.)
+배열에서는 각 value마다 고유한 key값이 존재해야한다.
+ex) <li key = 1>1번</li>
+    <li key = 2>2번</li>
+    <li key = 3>3번</li>
+그래서 key 값과 index(arr[i]) 값에 for문을 이용해 value값을 반복 가능.
