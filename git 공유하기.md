@@ -15,3 +15,15 @@
 13. git add . // git commit -m "설명" // git push 로 데이터 업로드 (데이터 수정 후 업로드 하지않으면 에러 발생)
 14. git checkout "브랜치명"으로 다른 브랜치로 이동 가능
 15. git pull 로 업로드 된 파일 새로고침
+
+
+**업그레이드**
+1. 프로젝트 하나 생성
+2. 팀원들의 issue 생성
+3. brunch 생성
+4. vscode에서 clone생성
+5. dir로 git 위치 확인
+6. git fetch origin
+7. git checkout [branch명]
+8. npm create vite
+9. 
