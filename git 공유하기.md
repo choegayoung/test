@@ -20,7 +20,7 @@
 **업그레이드**
 1. 프로젝트 하나 생성
 2. 팀원들의 issue 생성
-3. brunch 생성
+3. branch 생성
 4. vscode에서 clone생성
 5. dir로 git 위치 확인
 6. git fetch origin
